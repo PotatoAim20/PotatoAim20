@@ -10,7 +10,7 @@ As an adept quick learner, collaborative team player, and detail-oriented proble
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ns.darwish1@gmail.com](mailto:ns.darwish1@gmail.com)
-* 🧠  I'm currently learning Deep learning and flutter
+* 🧠  I'm currently learning Deep learning
 
 ### Skills
 
