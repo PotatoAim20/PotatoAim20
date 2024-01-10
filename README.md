@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabil Sherif
 ====================================================================================================================================
 
-Machine/Deep learning developer
+AI Engineer
 -------------------------------
 
 As a motivated Computer Science and Artificial Intelligence scholar, I am actively seeking challenging opportunities to showcase my expertise. With extensive proficiency in Python, C++, and Java, as well as hands-on experience in HTML, CSS, JavaScript, and SQL, I am currently pursuing advanced studies in Machine Learning and Data Analysis with a particular emphasis on Deep Learning. 
