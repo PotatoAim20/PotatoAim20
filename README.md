@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Engineer
 -------------------------------
 
-As a motivated Computer Science and Artificial Intelligence scholar, I am actively seeking challenging opportunities to showcase my expertise. With extensive proficiency in Python, C++, and Java, as well as hands-on experience in HTML, CSS, JavaScript, and SQL, I am currently pursuing advanced studies in Machine Learning and Data Analysis with a particular emphasis on Deep Learning. 
-
-As an adept quick learner, collaborative team player, and detail-oriented problem solver, I am dedicated to innovation and committed to delivering excellence. I possess a hardworking and organized approach and am eager to contribute to driving company objectives forward. With the ability to manage multiple projects simultaneously with unparalleled precision, I am excited about leveraging my skills and knowledge to benefit a dynamic and forward-thinking organization.
+Data-driven AI engineer with a strong background in statistical analysis and predictive modeling.
+Proficient in Python, C++, and Java. Skilled at using big data to create AI systems that improve business processes and increase revenue. Also skilled in computer vision.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [ns.darwish1@gmail.com](mailto:ns.darwish1@gmail.com)
